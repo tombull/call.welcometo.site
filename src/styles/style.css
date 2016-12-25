@@ -1,0 +1,9 @@
+.video-container {
+  display: flex;
+  justify-content: center;
+}
+
+video {
+  height: auto;
+  max-width: 100%;
+}
